@@ -1,5 +1,5 @@
 int new_int_returning_function() {
-    return 3;
+    return 4;
 }
 
 
